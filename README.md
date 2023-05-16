@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a junior Full-Stack developer from France
+I'm a Full-Stack software engineer from France
 
 **About me**
 
