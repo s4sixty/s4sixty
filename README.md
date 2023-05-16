@@ -6,7 +6,7 @@ I'm a junior Full-Stack developer from France
 
 **About me**
 
-- 💼 Software Engineer at [SGCIB](https://www.societegenerale.ch/en/our-offer/corporate-and-investment-banking/)
+- 💼 Software Engineer at [SGCIB](https://www.linkedin.com/company/societegenerale-corporate-and-investment-bankin)
 
 - 📈 I enjoy building restful services and APIs
 
